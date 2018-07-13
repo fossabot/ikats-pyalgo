@@ -3,6 +3,7 @@
 ![Docker Automated build](https://img.shields.io/docker/automated/ikats/pyalgo.svg)
 ![Docker Build Status](https://img.shields.io/docker/build/ikats/pyalgo.svg)
 ![MicroBadger Size](https://img.shields.io/microbadger/image-size/ikats/pyalgo.svg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FIKATS%2Fikats-pyalgo.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FIKATS%2Fikats-pyalgo?ref=badge_shield)
 
 **An overview of IKATS global architecture is available [here](https://github.com/IKATS/IKATS)**
 
@@ -87,3 +88,7 @@ List of python algorithms provided (as operators) at the moment :
 
 - [K-Means](https://ikats.github.io/doc/operators/kmeans.html)
 - [K-Means on patterns](https://ikats.github.io/doc/operators/kmeansOnPatterns.html)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FIKATS%2Fikats-pyalgo.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FIKATS%2Fikats-pyalgo?ref=badge_large)
